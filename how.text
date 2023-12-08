@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=i8xHOrPP3NA
+
+npm init -y
+npm i -D typescript @types/express
+npx tsc --init
+npx tsc // convert ts to js
