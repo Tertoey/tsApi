@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=i8xHOrPP3NA
 
 npm init -y
-npm i -D typescript @types/express
-npx tsc --init
+npm i -D typescript @types/express ts-node-dev
+npx tsc --init //tsConfig
 npx tsc // convert ts to js
